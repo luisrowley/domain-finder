@@ -38,4 +38,4 @@ python domain-finder.py [-h] [-i] [-l] [-c] [-n] [--version]
   
   ## See it in action
   
-  This is a very primitive version of the script that runs the main domain search engine at [Mixflare.net](http://www.mixflare.net). 
+  This is a very primitive version of the script that runs the main domain search engine at [Mixflare.net](http://www.mixflare.net), a domain name and hosting comparison website. Feel free to check it out anytime you like!
