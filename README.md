@@ -9,7 +9,7 @@ python domain-finder.py [-h] [-i] [-l] [-c] [-n] [--version]
 ```
 <b>Where: </b>
 
- -h, --help          show this help message and exit
+ -h, --help          show help message and exit
  
   -i, --input         Simple Lookup. Searches for availability of the
                       specified domain name. (.com and .net top-level domains
