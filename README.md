@@ -36,6 +36,6 @@ python domain-finder.py [-h] [-i] [-l] [-c] [-n] [--version]
   --version           show program's version number and exit
   
   
-  ## Script in action
+  ## See it in action
   
   This is a very primitive version of the script that runs the main domain search engine at [Mixflare.net](http://www.mixflare.net). 
