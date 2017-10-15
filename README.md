@@ -1,6 +1,6 @@
 # domain-finder
 
-This is a very simple Python script that you can use to search for available domain names from the Terminal. It performs a series of DNS lookups based on the words you provide and then returns a list of the available domain names that can be registered. If there are not any domains available using your criteria, it suggests you new domain names based on synonyms of the words you originally entered.
+This is a very simple Python script that you can use to search for available domain names from the Terminal. It performs a series of DNS lookups based on the words you provide and then returns a list of the available domain names that can be registered.
 
 It can perform one of these types of lookup: 
 
