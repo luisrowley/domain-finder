@@ -24,7 +24,7 @@ python domain-finder.py [-h] [-i] [-l] [-c] [-n] [--version]
                       specified domain name. (.com and .net top-level domains
                       supported)
                       
-  -l, --list-domains  Advanced search. This option takes in a list of comma
+  -l, --list-domains  Advanced search. This option takes in a list of space
                       separated strings, generates all possible (and best)
                       combinations between them, and then checks their
                       avalability as domain names via DNS lookup.
