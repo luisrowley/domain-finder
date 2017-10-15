@@ -40,7 +40,7 @@ print('\n---------------- MIXFLARE v0.12 ----------------\n')
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', '--input', action="store_true", dest='input', help='Simple Lookup. Searches for availability of the specified domain name. (.com and .net top-level domains supported)')
-parser.add_argument('-l', '--list-domains', action="store_true", dest='list', help='Advanced search. This option takes in a list of comma separated strings, generates all possible (and best) combinations between them, and then checks their avalability as domain names via DNS lookup.')
+parser.add_argument('-l', '--list-domains', action="store_true", dest='list', help='Advanced search. This option takes in a list of space separated strings, generates all possible (and best) combinations between them, and then checks their avalability as domain names via DNS lookup.')
 parser.add_argument('-c', '--com', action="store_true", dest='com_domains', help='Filter results by .com domains only.')
 parser.add_argument('-n', '--net', action="store_true", dest='net_domains', help='Filter results by .net domains only.')
 parser.add_argument('--version', action='version', version='Mixflare v0.12')
