@@ -49,7 +49,7 @@ args = parser.parse_args()
 
 # If not -c or -n option, don't even bother
 
-if not args.com_domains and not args.net_domains:	
+if not args.com_domains and not args.net_domains and not args.list:	
 	print('Please specify a TLD option: -c for .com, -n for .net domains or both. e.g.: domain-finder -c')
 	sys.exit(0)
 
